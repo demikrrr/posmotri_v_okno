@@ -199,8 +199,6 @@ ol {
 
 .content__card-link:hover {
   text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 5px;
 }
 
 .content__card-link:focus {
@@ -275,7 +273,6 @@ button:focus {
 }
 
 .button:focus-visible {
-  border: 1px solid #FFF;
   outline: 1px solid #FFF;
   outline-offset: 2px;
 }
